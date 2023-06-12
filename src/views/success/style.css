@@ -1,0 +1,17 @@
+.success_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.image {
+    margin: 50px 0;
+}
+
+.text {
+    color: white;
+    text-align: center;
+}

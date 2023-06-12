@@ -1,0 +1,14 @@
+ul[role='navigation'] {
+    display: flex;
+    justify-content: center;
+}
+
+ul[role='navigation'] li {
+    list-style-type: none;
+    margin: 0 5px;
+    font-size: 18pt;
+}
+
+.activeClassName {
+    color: red;
+} 
